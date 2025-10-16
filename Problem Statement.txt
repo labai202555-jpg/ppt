@@ -1,0 +1,9 @@
+Title: Al Customer Review Response Generator 
+
+Problem Statement: Hotels and restaurants need to respond to customer reviews professionally and personally across multiple platforms. 
+
+Steps: Use LLM to generate personalized review responses. Create thank you messages and apology templates. Generate follow-up communications and service recovery messages. Build conversational customer service assistant. 
+
+Data Requirements: Review examples, response templates, service recovery procedures, customer communication guidelines in text format. 
+
+Expected Output: Generated personalized review responses and conversational customer service communications.

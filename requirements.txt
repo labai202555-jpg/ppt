@@ -1,0 +1,7 @@
+langchain>=0.0.300
+react
+openai
+requests
+pydantic
+python-dotenv
+pytest
